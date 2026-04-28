@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+frontend/dist/
+backend/coverage/
+
+# Environment files
+.env
+**/.env
+!.env.example
+**/.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary debug artifacts
+backend/temp*.txt
+backend/docker_*_err.txt
+backend/docker_*_check.txt
+backend/docker_*_env*.txt
+backend/docker_probe.txt
