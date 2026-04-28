@@ -15,6 +15,17 @@ This codebase now includes all major upgrade phases requested:
 - Backend API and socket test setup using Jest + Supertest + mongodb-memory-server
 - Optional document snapshot endpoint while keeping CRDT as primary sync path
 
+## Screenshots
+
+### Login & Registration
+![Login Screen](./screenshots/Screenshot%202026-04-28%20at%204.20.42%20PM.png)
+
+### Document Editor with Real-time Collaboration
+![Editor Interface 1](./screenshots/Screenshot%202026-04-28%20at%204.35.19%20PM.png)
+
+### Real-time Cursor & Presence Updates
+![Editor Interface 2](./screenshots/Screenshot%202026-04-28%20at%204.35.41%20PM.png)
+
 ## Architecture
 
 ### Backend
