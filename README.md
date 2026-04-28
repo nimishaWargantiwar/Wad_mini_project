@@ -18,13 +18,13 @@ This codebase now includes all major upgrade phases requested:
 ## Screenshots
 
 ### Login & Registration
-![Login Screen](./screenshots/Screenshot%202026-04-28%20at%204.20.42%20PM.png)
+![Login Screen](./screenshots/screenshot-2026-04-28-at-4.20.42-pm.png)
 
 ### Document Editor with Real-time Collaboration
-![Editor Interface 1](./screenshots/Screenshot%202026-04-28%20at%204.35.19%20PM.png)
+![Editor Interface 1](./screenshots/screenshot-2026-04-28-at-4.35.19-pm.png)
 
 ### Real-time Cursor & Presence Updates
-![Editor Interface 2](./screenshots/Screenshot%202026-04-28%20at%204.35.41%20PM.png)
+![Editor Interface 2](./screenshots/screenshot-2026-04-28-at-4.35.41-pm.png)
 
 ## Architecture
 
