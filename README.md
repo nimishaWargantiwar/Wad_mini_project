@@ -18,15 +18,15 @@ This codebase now includes all major upgrade phases requested:
 ## Screenshots
 
 ### 1. Login & Registration
-![Login Screen](./screenshots/login-screen.png)
+![Login Screen](./screenshots/login.png)
 Users can register new accounts or sign in with existing credentials.
 
 ### 2. Documents Dashboard
-![Documents Dashboard](./screenshots/editor-collaboration.png)
+![Documents Dashboard](./screenshots/dashboard.png)
 View all your documents, create new ones, and manage document access (owner/editor/viewer roles).
 
 ### 3. Real-time Document Editor
-![Document Editor](./screenshots/editor-presence.png)
+![Document Editor](./screenshots/editor-collaboration.png)
 Collaborate with others in real-time. See live cursor positions, presence indicators, and synchronized edits powered by Yjs.
 
 ## Architecture
